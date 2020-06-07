@@ -1,0 +1,7 @@
+---
+title: Test Post
+---
+
+# This is a new post.
+
+Which is to test, exactly how well this works.
