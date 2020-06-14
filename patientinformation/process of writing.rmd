@@ -1,0 +1,15 @@
+---
+title: "Process of Writing Patient Information Sheets"
+---
+
+## Step 1
+
+In Projects folder, go to patient information folder.
+
+Write the rmd file, including figures.
+
+When fished, put the md file into the patient information folder of the website. Also, the figures.
+
+Then put the PDF into this file. Add a line to download the md file
+
+
