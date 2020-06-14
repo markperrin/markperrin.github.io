@@ -2,7 +2,7 @@ docs-en:
   - title:      Heart Rhythm Disorders
     children:
       - title:  Atrial Fibrillation
-        url:    /patientinformation/atrialfibrillation.html
+        url:    /_patientinformation/atrialfibrillation.html
       - title:  Atrial Flutter
         url:    /index.html
       - title:  SVT (supraventricular tachycardia)
