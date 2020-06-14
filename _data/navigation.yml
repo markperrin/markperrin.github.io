@@ -1,8 +1,16 @@
 docs-en:
-  - title:      Start
+  - title:      Heart Rhythm Disorders
     children:
-      - title:  Quick Start
+      - title:  Atrial Fibrillation
+        url:    /patientinformation/atrialfibrillation.html
+      - title:  Atrial Flutter
         url:    /index.html
+      - title:  SVT (supraventricular tachycardia)
+        url:    /index.html
+      - title:  Ventricular Tachycardia
+        url:    /index.html
+      - title:  PVC (premature ventricular contractions)
+        url:    /index.html                   
    
 
 header:
