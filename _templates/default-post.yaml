@@ -1,0 +1,10 @@
+# default post for website
+---
+title: default-post
+layout: post
+article_header:
+  type: cover
+  image:
+    src: /screenshot.jpg
+---
+

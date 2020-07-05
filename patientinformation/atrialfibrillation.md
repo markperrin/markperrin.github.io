@@ -1,9 +1,9 @@
----
+ ---
 layout: article
 sidebar:
   nav: docs-en
-# articles:
-#   excerpt_type: html
+aside:
+  toc: true
 ---
 
 # Atrial Fibrillation and Other Stuff
